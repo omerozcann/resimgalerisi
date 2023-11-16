@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "resimgalerisi", "resimgalerisi\resimgalerisi.csproj", "{2FF253E7-1681-4367-8358-20DC3D2E73FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF253E7-1681-4367-8358-20DC3D2E73FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF253E7-1681-4367-8358-20DC3D2E73FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF253E7-1681-4367-8358-20DC3D2E73FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF253E7-1681-4367-8358-20DC3D2E73FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FBE7672-F0EC-439B-B82F-1A7978ED1300}
+	EndGlobalSection
+EndGlobal
